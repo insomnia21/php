@@ -1,6 +1,6 @@
 <?php
 $test=  1;
 
-
-echo $test;
+$b = 10;
+echo $test . $b;
 ?>
